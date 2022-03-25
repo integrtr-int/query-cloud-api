@@ -12,7 +12,7 @@
   "author": "integrtr",
   "license": "GNU GPLV2 ",
   "devDependencies": {
-    "electron": "^2.0.2",
+    "electron": "^13.6.6",
     "electron-builder": "^20.14.7",
     "electron-builder-squirrel-windows": "^20.14.6"
   },
